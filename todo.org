@@ -1,0 +1,16 @@
+* Features [0/6]
+  - [ ] 'clone' member built-ins
+  - [ ] I would like to re-make DefineGrammar using the new rvalue reference syntax.  I Just ran into a somewhat subtle problem
+    where I was calling members of a DefineGrammar and therefore loosing the class' GrammarTree data when the member's constructed 'management' object
+    fell out of scope.
+  - [ ] get rid of the terminator and implicit begin label.  They're a headache when I'm trying to think of memory management and how to merge trees.
+  - [ ] inter line scan-string in the parser
+  - [ ] memory management.  Right now I free elements in a linear GrammarChain, but don't bother with the nodes pointed to by a Branch, so there's some 
+    leakage.
+    - linked list of every allocated node which is a child of the tree... actually that would be pretty easy.
+    - Use pools, allocate Rule part over an array then do stride one freeing
+  - [ ] separate the Reduce interface from the implementation details.  Label GotoLabel and If are all different enough and don't need to carry around
+    the extra variables.
+    
+    
+* Rename

@@ -1,0 +1,2755 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Ryan Domigan
+    <ryan_domigan@students.uml.edu
+    Downloaded on September 9 2012
+    
+    Song information for Relationship of Command by "at the drive in"
+    Downloaded from musicbrainz.org
+
+    October 9, 2012 appended more data to get to 5 toplevel elements
+    October 14, 2012 appended more data to get to meet assignment 3 specs
+
+    note: comment allow at same level as root tag, but must be _after_ XML Declaration
+  -->
+<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0#">
+  <recording id="d70d89d2-ee5e-4e50-98b1-179dc2fde3d1">
+    <title>One Armed Scissor</title>
+    <length>259986</length>
+    <artist-credit>
+      <name-credit>
+	<artist id="7e13cd1c-0300-4d03-bd8e-5f86dd99d74f" testing="foo" more_testing="bar" most_testing="baz">
+	  <name>At the Drive&#226;&#8364;In</name>
+	  <sort-name>At the Drive&#226;&#8364;In</sort-name>
+	</artist>
+      </name-credit>
+    </artist-credit>
+    <release-list count="6">
+      <release id="1ea4753b-b3e2-44a8-afa5-48f99c08a314">
+	<title>Relationship of Command</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="7e13cd1c-0300-4d03-bd8e-5f86dd99d74f">
+	      <name>At the Drive&#226;&#8364;In</name>
+	      <sort-name>At the Drive&#226;&#8364;In</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2000-09-12</date>
+	<country>US</country>
+      </release>
+      <release id="2d9480ec-2164-41b9-9baa-3630175ffbb9">
+	<title>Relationship of Command</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="7e13cd1c-0300-4d03-bd8e-5f86dd99d74f"
+		    super="1"
+		    meta="2"
+		    hyper="3"
+		    alto="4"
+		    out_of_synonyms="5">
+	      <name>At the Drive&#226;&#8364;In</name>
+	      <sort-name>At the Drive&#226;&#8364;In</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2000-09-12</date>
+	<country>US</country>
+      </release>
+      <release id="42502b0f-2469-3b0b-92f7-5026a5c6fb23">
+	<title>Relationship of Command</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="7e13cd1c-0300-4d03-bd8e-5f86dd99d74f">
+	      <name>At the Drive&#226;&#8364;In</name>
+	      <sort-name>At the Drive&#226;&#8364;In</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2004-12-06</date>
+	<country>GB</country>
+	<barcode>5033197302928</barcode>
+      </release>
+      <release id="83e5bcc1-0f25-3e97-a2ec-513689bd7918">
+	<title>Relationship of Command</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="7e13cd1c-0300-4d03-bd8e-5f86dd99d74f">
+	      <name>At the Drive&#226;&#8364;In</name>
+	      <sort-name>At the Drive&#226;&#8364;In</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2000</date>
+	<country>GB</country>
+	<barcode>724385035128</barcode>
+      </release>
+      <release id="d84b38d8-3fb2-3ac3-b8b5-e6331a650fc0">
+	<title>Relationship of Command</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="7e13cd1c-0300-4d03-bd8e-5f86dd99d74f">
+	      <name>At the Drive&#226;&#8364;In</name>
+	      <sort-name>At the Drive&#226;&#8364;In</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2004-11-09</date>
+	<country>AU</country>
+	<barcode>5021456129812</barcode>
+      </release>
+      <release id="ed343d2f-d282-4094-ac1e-598c3bcef2d6">
+	<title>Relationship of Command</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="7e13cd1c-0300-4d03-bd8e-5f86dd99d74f">
+	      <name>At the Drive&#226;&#8364;In</name>
+	      <sort-name>At the Drive&#226;&#8364;In</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2000-09-12</date>
+	<country>US</country>
+	<barcode>714753007024</barcode>
+      </release>
+    </release-list>
+  </recording>
+
+  <release-group type="Album"
+		 id="bee4fcbb-9e54-3d62-a72c-06b9f97fa487"
+		 third_element="no semantic value.">
+    <title>Acrobatic Tenement</title>
+    <first-release-date>1996-08-18</first-release-date>
+    <primary-type>Album</primary-type>
+    <artist-credit>
+      <name-credit>
+	<artist id="7e13cd1c-0300-4d03-bd8e-5f86dd99d74f">
+	  <name>At the Drive&#226;&#8364;In</name>
+	  <sort-name>At the Drive&#226;&#8364;In</sort-name>
+	</artist>
+      </name-credit>
+    </artist-credit>
+    <release-list count="4">
+      <release id="0abcf2c5-9db0-3776-89af-adf1cbee1a2f">
+	<title>Acrobatic Tenement</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="7e13cd1c-0300-4d03-bd8e-5f86dd99d74f">
+	      <name>At the Drive&#226;&#8364;In</name>
+	      <sort-name>At the Drive&#226;&#8364;In</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2000</date>
+	<country>US</country>
+	<barcode>0759528009421</barcode>
+      </release>
+      <release id="1bbca62b-b444-4260-8d0b-e5570f8f38f0">
+	<title>Acrobatic Tenement</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="7e13cd1c-0300-4d03-bd8e-5f86dd99d74f">
+	      <name>At the Drive&#226;&#8364;In</name>
+	      <sort-name>At the Drive&#226;&#8364;In</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<country>GB</country>
+	<barcode>5033197303024</barcode>
+      </release>
+      <release id="6d03c9de-d6f2-45a4-8b68-a35255c3669f">
+	<title>Acrobatic Tenement</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="7e13cd1c-0300-4d03-bd8e-5f86dd99d74f">
+	      <name>At the Drive&#226;&#8364;In</name>
+	      <sort-name>At the Drive&#226;&#8364;In</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1996-08-18</date>
+	<country>US</country>
+      </release>
+      <release id="e664bd24-9793-34c2-ac33-0b3e546576ed">
+	<title>Acrobatic Tenement</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="7e13cd1c-0300-4d03-bd8e-5f86dd99d74f">
+	      <name>At the Drive&#226;&#8364;In</name>
+	      <sort-name>At the Drive&#226;&#8364;In</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2004-11-09</date>
+	<country>US</country>
+	<barcode>0714753007123</barcode>
+      </release>
+    </release-list>
+  </release-group>
+
+  <release-group type="Album"
+		 id="6e672015-9666-3169-907a-35bac0655eaa">
+    <title>In/Casino/Out</title>
+    <first-release-date>1998-08-18</first-release-date>
+    <primary-type>Album</primary-type>
+    <artist-credit>
+      <name-credit>
+	<artist id="7e13cd1c-0300-4d03-bd8e-5f86dd99d74f">
+	  <name>At the Drive&#226;&#8364;In</name>
+	  <sort-name>At the Drive&#226;&#8364;In</sort-name>
+	</artist>
+      </name-credit>
+    </artist-credit>
+    <release-list count="3">
+      <release id="00e41965-6d9d-357e-8148-430cea17a68d">
+	<title>In/Casino/Out</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="7e13cd1c-0300-4d03-bd8e-5f86dd99d74f">
+	      <name>At the Drive&#226;&#8364;In</name>
+	      <sort-name>At the Drive&#226;&#8364;In</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1998</date>
+	<country>CA</country>
+	<barcode>714753003422</barcode>
+      </release>
+      <release id="6057c02f-3afd-31ea-ad95-981b3a6ae435">
+	<title>In/Casino/Out</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="7e13cd1c-0300-4d03-bd8e-5f86dd99d74f">
+	      <name>At the Drive&#226;&#8364;In</name>
+	      <sort-name>At the Drive&#226;&#8364;In</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2004-12-06</date>
+	<country>GB</country>
+	<barcode>5033197302720</barcode>
+      </release>
+      <release id="fd3bc7da-a463-48ef-b0e7-eaeba43b13a9">
+	<title>In/Casino/Out</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="7e13cd1c-0300-4d03-bd8e-5f86dd99d74f">
+	      <name>At the Drive&#226;&#8364;In</name>
+	      <sort-name>At the Drive&#226;&#8364;In</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1998-08-18</date>
+	<country>US</country>
+	<barcode>714753003422</barcode>
+      </release>
+    </release-list>
+  </release-group>
+
+  <release id="2a6d8f7c-8cca-4fb1-9f8c-0de137837f0f">
+    <title>The Lonesome Crowded West</title>
+    <status>Official</status>
+    <packaging>Jewel Case</packaging>
+    <quality>normal</quality>
+    <text-representation>
+      <language>eng</language>
+      <script>Latn</script>
+    </text-representation>
+    <artist-credit>
+      <name-credit>
+	<artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+	  <name>Modest Mouse</name>
+	  <sort-name>Modest Mouse</sort-name>
+	</artist>
+      </name-credit>
+    </artist-credit>
+    <date>1997-11-18</date>
+    <country>US</country>
+    <barcode>796818004421</barcode>
+    <asin>B000003L26</asin>
+    <label-info-list count="1">
+      <label-info>
+	<catalog-number>up44</catalog-number>
+	<label id="95fc5a0f-96a8-49d7-a982-dfa84e0df5b6">
+	  <name>Up Records</name>
+	  <sort-name>Up Records</sort-name>
+	  <disambiguation>Seattle based independant</disambiguation>
+	</label>
+      </label-info>
+    </label-info-list>
+    <medium-list count="1">
+      <medium>
+	<position>1</position>
+	<format>CD</format>
+	<disc-list count="2">
+	  <disc id="GfAcZ92EEzRJCtVnPBjYbR5TLEQ-">
+	    <sectors>333075</sectors>
+	  </disc>
+	  <disc id="sBURzl8cQZXTTmndh6sqozzzB3A-">
+	    <sectors>334912</sectors>
+	  </disc>
+	</disc-list>
+	<track-list count="15" offset="0" turbo="more">
+	  <track>
+	    <position>1</position>
+	    <number>1</number>
+	    <length>415240</length>
+	    <recording id="203174a0-8173-4a5f-bc6a-40cb11af85ec">
+	      <title>Teeth Like God&#226;&#8364;&#8482;s Shoeshine</title>
+	      <length>415240</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+		    <name>Modest Mouse</name>
+		    <sort-name>Modest Mouse</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>2</position>
+	    <number>2</number>
+	    <length>244986</length>
+	    <recording id="f1a93e23-c6ba-4345-9c48-902c05ea3e67">
+	      <title>Heart Cooks Brain</title>
+	      <length>244986</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+		    <name>Modest Mouse</name>
+		    <sort-name>Modest Mouse</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>3</position>
+	    <number>3</number>
+	    <length>250426</length>
+	    <recording id="72f9119e-f183-41ef-9653-0f28d10a7fb6">
+	      <title>Convenient Parking</title>
+	      <length>250426</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+		    <name>Modest Mouse</name>
+		    <sort-name>Modest Mouse</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>4</position>
+	    <number>4</number>
+	    <length>425840</length>
+	    <recording id="5d862f43-2e6b-4916-970d-86a6c9d264e6">
+	      <title>Lounge (Closing Time)</title>
+	      <length>425840</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+		    <name>Modest Mouse</name>
+		    <sort-name>Modest Mouse</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>5</position>
+	    <number>5</number>
+	    <length>157946</length>
+	    <recording id="d4eda28e-8131-463a-8cce-2f313c51ec35">
+	      <title>Jesus Christ Was an Only Child</title>
+	      <length>157946</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+		    <name>Modest Mouse</name>
+		    <sort-name>Modest Mouse</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>6</position>
+	    <number>6</number>
+	    <length>260786</length>
+	    <recording id="0c9b1293-2f8b-41e1-8f7e-0b18cff3b63d">
+	      <title>Doin&#226;&#8364;&#8482; the Cockroach</title>
+	      <length>260786</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+		    <name>Modest Mouse</name>
+		    <sort-name>Modest Mouse</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>7</position>
+	    <number>7</number>
+	    <length>376853</length>
+	    <recording id="7f62164a-6d43-4b57-ab65-5b10f4f71513">
+	      <title>Cowboy Dan</title>
+	      <length>376853</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+		    <name>Modest Mouse</name>
+		    <sort-name>Modest Mouse</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>8</position>
+	    <number>8</number>
+	    <length>350120</length>
+	    <recording id="a0cafd78-9c36-4e27-a13d-5dccaddf1ade">
+	      <title>Trailer Trash</title>
+	      <length>350120</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+		    <name>Modest Mouse</name>
+		    <sort-name>Modest Mouse</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>9</position>
+	    <number>9</number>
+	    <length>153200</length>
+	    <recording id="adf48e14-a89b-43e6-ab5c-d737e0ae11ba">
+	      <title>Out of Gas</title>
+	      <length>153200</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+		    <name>Modest Mouse</name>
+		    <sort-name>Modest Mouse</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>10</position>
+	    <number>10</number>
+	    <length>224440</length>
+	    <recording id="fac41e71-3ca7-4cac-8db5-d764a0262a0f">
+	      <title>Long Distance Drunk</title>
+	      <length>224440</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+		    <name>Modest Mouse</name>
+		    <sort-name>Modest Mouse</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>11</position>
+	    <number>11</number>
+	    <length>144440</length>
+	    <recording id="8fea0bf9-7c54-49ae-a19e-f8b1cd9b31ca">
+	      <title>Shit Luck</title>
+	      <length>144440</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+		    <name>Modest Mouse</name>
+		    <sort-name>Modest Mouse</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>12</position>
+	    <number>12</number>
+	    <length>659040</length>
+	    <recording id="ec9936f1-87b9-40e4-a90c-2a9fd9b1525b">
+	      <title>Truckers Atlas</title>
+	      <length>659040</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+		    <name>Modest Mouse</name>
+		    <sort-name>Modest Mouse</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>13</position>
+	    <number>13</number>
+	    <length>211586</length>
+	    <recording id="66bd0d4b-e263-4ea9-b43f-cfbecfcf0b6c">
+	      <title>Polar Opposites</title>
+	      <length>211586</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+		    <name>Modest Mouse</name>
+		    <sort-name>Modest Mouse</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>14</position>
+	    <number>14</number>
+	    <length>175586</length>
+	    <recording id="79f23bab-0ce9-4c18-8e81-1f549c1a462b">
+	      <title>Bankrupt on Selling</title>
+	      <length>175586</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+		    <name>Modest Mouse</name>
+		    <sort-name>Modest Mouse</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>15</position>
+	    <number>15</number>
+	    <length>413000</length>
+	    <recording id="87e1d011-2f9b-4610-8840-c30509a767dc">
+	      <title>Styrofoam Boots / It's All Nice on Ice, Alright</title>
+	      <length>413000</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+		    <name>Modest Mouse</name>
+		    <sort-name>Modest Mouse</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	</track-list>
+      </medium>
+    </medium-list>
+  </release>
+
+  <release-group type="Album"
+		 id="a8e26959-b3b2-3440-a74a-0dc06cd6310d">
+    <title>The Moon &amp; Antarctica</title>
+    <first-release-date>2000-06-13</first-release-date>
+    <primary-type>Album</primary-type>
+    <artist-credit>
+      <name-credit>
+	<artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+	  <name>Modest Mouse</name>
+	  <sort-name>Modest Mouse</sort-name>
+	</artist>
+      </name-credit>
+    </artist-credit>
+    <release-list count="6">
+      <release id="1118b4c8-f0d3-4385-98bf-b60435ef62c0">
+	<title>The Moon &amp; Antarctica</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+	      <name>Modest Mouse</name>
+	      <sort-name>Modest Mouse</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2010-04-17</date>
+	<country>US</country>
+	<barcode>0886976615611</barcode>
+      </release>
+      <release id="6c0ce712-146e-4464-9e3b-8f43bc2a0a92">
+	<title>The Moon &amp; Antarctica</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+	      <name>Modest Mouse</name>
+	      <sort-name>Modest Mouse</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2010-08-10</date>
+	<country>XE</country>
+	<barcode>886977516320</barcode>
+      </release>
+      <release id="7c50cc51-b1a2-3654-aca7-bdfef95b1c83">
+	<title>The Moon &amp; Antarctica</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+	      <name>Modest Mouse</name>
+	      <sort-name>Modest Mouse</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2000-07-03</date>
+	<country>GB</country>
+	<barcode>744861045021</barcode>
+      </release>
+      <release id="935e2886-2ad1-4e4f-819d-f1920b2c4265">
+	<title>The Moon &amp; Antarctica</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+	      <name>Modest Mouse</name>
+	      <sort-name>Modest Mouse</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2004-03-09</date>
+	<country>US</country>
+	<barcode>827969203422</barcode>
+      </release>
+      <release id="9dc56f2a-05a3-4d11-ace5-6b878320fa03">
+	<title>The Moon &amp; Antarctica</title>
+	<status>Official</status>
+	<packaging>Jewel Case</packaging>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+	      <name>Modest Mouse</name>
+	      <sort-name>Modest Mouse</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2010-08-10</date>
+	<country>US</country>
+	<barcode>886977516320</barcode>
+      </release>
+      <release id="eef3f2f5-8925-47be-97a3-469a7421c387">
+	<title>The Moon &amp; Antarctica</title>
+	<status>Official</status>
+	<packaging>Jewel Case</packaging>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="a96ac800-bfcb-412a-8a63-0a98df600700">
+	      <name>Modest Mouse</name>
+	      <sort-name>Modest Mouse</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2000-06-13</date>
+	<country>US</country>
+	<barcode>074646387122</barcode>
+      </release>
+    </release-list>
+  </release-group>
+
+  <release-group type="Album" id="9f7a4c28-8fa2-3113-929c-c47a9f7982c3">
+    <title>Sgt. Pepper's Lonely Hearts Club Band</title>
+    <first-release-date>1967-06-01</first-release-date>
+    <primary-type>Album</primary-type>
+    <artist-credit>
+      <name-credit>
+	<artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	  <name>The Beatles</name>
+	  <sort-name>Beatles, The</sort-name>
+	</artist>
+      </name-credit>
+    </artist-credit>
+    <release-list count="21">
+      <release id="0109fb43-1270-3e65-a330-85d5e30fc99d">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<disambiguation>2009 Stereo Remaster</disambiguation>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2009-09-09</date>
+	<country>US</country>
+	<barcode>094638241928</barcode>
+      </release>
+      <release id="0701e58e-a94b-3dea-8828-bb29029e2858">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2009-09-09</date>
+	<country>XW</country>
+      </release>
+      <release id="0c64277d-0f63-3e49-92f7-8ae413faf46b">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<disambiguation>2009 Stereo Remaster</disambiguation>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2009-09-09</date>
+	<country>XE</country>
+	<barcode>094638241928</barcode>
+      </release>
+      <release id="0ec4c8cf-34a2-3652-939c-118d494d1fd3">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<packaging>Jewel Case</packaging>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1998-03-11</date>
+	<country>JP</country>
+	<barcode>4988006740020</barcode>
+      </release>
+      <release id="107d3c78-4593-3f9d-a70b-dc5e15484574">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1967-06-02</date>
+	<country>US</country>
+      </release>
+      <release id="1143948f-a941-3c18-a498-8d2a6ab891a6">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1967-06-01</date>
+	<country>GB</country>
+      </release>
+      <release id="26d5e76b-1640-3883-887b-507e3a287116">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1967-06-01</date>
+	<country>DE</country>
+      </release>
+      <release id="44b7cab1-0ce1-404e-9089-b458eb3fa530">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1967-06-01</date>
+	<country>GB</country>
+      </release>
+      <release id="4afdb2ee-9c4a-3921-bb33-ea45e979d008">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<disambiguation>2009 Stereo Remaster</disambiguation>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2009-09-09</date>
+	<country>AU</country>
+	<barcode>094638241928</barcode>
+      </release>
+      <release id="65e89f98-67a5-3523-bb99-0626906821b8">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1987</date>
+	<country>CA</country>
+      </release>
+      <release id="699cb5f5-0bac-4e23-a20b-0662f89fd6e4">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+      </release>
+      <release id="82767576-902e-3173-a03e-d16721bfb988">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1967-06-02</date>
+	<country>US</country>
+      </release>
+      <release id="8c81adfa-54a9-3db6-893a-c07b3313e606">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1987-06-01</date>
+	<country>GB</country>
+	<barcode>077774644228</barcode>
+      </release>
+      <release id="9a4929eb-6ec5-4a9c-8242-2377035fe05d">
+	<title>Sgt. Pepper's Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<packaging>Other</packaging>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1986</date>
+	<country>JP</country>
+	<barcode/>
+      </release>
+      <release id="a73cd774-4d6c-39eb-b908-80d587462f3d">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<disambiguation>2009 Mono Remaster</disambiguation>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2009-09-09</date>
+	<country>XE</country>
+      </release>
+      <release id="a89cbb4f-b02f-3db6-b82f-bd92b62ad52d">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2004-01-21</date>
+	<country>JP</country>
+	<barcode>4988006817166</barcode>
+      </release>
+      <release id="aa86fb96-d1cc-3ce9-b916-166e9a689f22">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1967-06-01</date>
+	<country>GB</country>
+      </release>
+      <release id="c20b91aa-8f3e-410e-83cf-12de62600c1f">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<packaging>Jewel Case</packaging>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1987</date>
+	<country>DE</country>
+	<barcode>077774644228</barcode>
+      </release>
+      <release id="ce681fec-ca96-3acc-ae66-af17f09f05a7">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<packaging>Jewel Case</packaging>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1987</date>
+	<country>US</country>
+	<barcode>077774644228</barcode>
+      </release>
+      <release id="de3bb18c-e3e5-3305-bf7c-3ed5ce94ae43">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1978</date>
+	<country>US</country>
+      </release>
+      <release id="de9de34e-8d61-3c33-9f50-ccd009470cbc">
+	<title>Sgt. Pepper’s Lonely Hearts Club Band</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1979</date>
+	<country>DE</country>
+      </release>
+    </release-list>
+  </release-group>
+
+  <release-group type="Album" id="de208292-8db5-3aed-a14a-b37a84d8c521">
+    <title>Please Please Me</title>
+    <first-release-date>1963-03-22</first-release-date>
+    <primary-type>Album</primary-type>
+    <artist-credit>
+      <name-credit>
+	<artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	  <name>The Beatles</name>
+	  <sort-name>Beatles, The</sort-name>
+	</artist>
+      </name-credit>
+    </artist-credit>
+    <release-list count="9">
+      <release id="3a685770-7326-34fc-9f18-e5f5626f3dc5">
+	<title>Please Please Me</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1963-04-26</date>
+	<country>GB</country>
+      </release>
+      <release id="3f8b41d0-0cc3-3063-a9f9-446337cc6f68">
+	<title>Please Please Me</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1994</date>
+	<country>BR</country>
+	<barcode>077774643528</barcode>
+      </release>
+      <release id="5c97a484-aa1a-3f8a-9d55-1e51ae83a1d9">
+	<title>Please Please Me</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1987-07-21</date>
+	<country>US</country>
+	<barcode>077774643511</barcode>
+      </release>
+      <release id="62cf2288-3ba5-3831-83e5-fb8021d6dd0a">
+	<title>Please Please Me</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1987-02-26</date>
+	<country>GB</country>
+	<barcode>077774643528</barcode>
+      </release>
+      <release id="9380307a-f791-36d4-b9f5-52f1f70c0b37">
+	<title>Please Please Me</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1987-02-26</date>
+	<country>US</country>
+	<barcode>077774643528</barcode>
+      </release>
+      <release id="aa539734-eec5-4943-811b-c4304dd1943a">
+	<title>Please Please Me</title>
+	<status>Official</status>
+	<disambiguation>2009 Stereo Remaster</disambiguation>
+	<packaging>Digipak</packaging>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2009-09-09</date>
+	<country>XW</country>
+	<barcode>094638241621</barcode>
+      </release>
+      <release id="ade577f6-6087-4a4f-8e87-38b0f8169814">
+	<title>Please Please Me</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1963-03-22</date>
+	<country>GB</country>
+      </release>
+      <release id="c6be540c-390d-44b1-9139-40aa9c11548f">
+	<title>Please Please Me</title>
+	<status>Bootleg</status>
+	<packaging>Jewel Case</packaging>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2002</date>
+	<country>RU</country>
+	<barcode>4607016131443</barcode>
+      </release>
+      <release id="d7e9ed76-4156-35ab-b475-7fddb5b0a649">
+	<title>Please Please Me</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+	      <name>The Beatles</name>
+	      <sort-name>Beatles, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>1979</date>
+	<country>DE</country>
+      </release>
+    </release-list>
+  </release-group>
+
+  <release id="75df90d0-e28f-4218-a1cc-fcdc7e3438e5">
+    <title>Requiem for a Dream</title>
+    <status>Official</status>
+    <quality>normal</quality>
+    <text-representation>
+      <language>eng</language>
+      <script>Latn</script>
+    </text-representation>
+    <artist-credit>
+      <name-credit joinphrase=" feat. ">
+	<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+	  <name>Clint Mansell</name>
+	  <sort-name>Mansell, Clint</sort-name>
+	</artist>
+      </name-credit>
+      <name-credit>
+	<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+	  <name>Kronos Quartet</name>
+	  <sort-name>Kronos Quartet</sort-name>
+	</artist>
+      </name-credit>
+    </artist-credit>
+    <date>2000-10-10</date>
+    <country>XE</country>
+    <barcode>075597961126</barcode>
+    <asin>B00004Y6Q5</asin>
+    <label-info-list count="1">
+      <label-info>
+	<catalog-number>7559-79611-2</catalog-number>
+	<label id="c69cac59-f512-4edc-ab2c-d04c22dbce20">
+	  <name>Nonesuch</name>
+	  <sort-name>Nonesuch</sort-name>
+	  <label-code>286</label-code>
+	</label>
+      </label-info>
+    </label-info-list>
+    <medium-list count="1">
+      <medium>
+	<position>1</position>
+	<format>CD</format>
+	<disc-list count="4">
+	  <disc id="0oLBejfXk3_FVSpHqILFqVJkoP4-">
+	    <sectors>228868</sectors>
+	  </disc>
+	  <disc id="96vL5wVfk8yuEPzua5r2yeNmf4U-">
+	    <sectors>230682</sectors>
+	  </disc>
+	  <disc id="mc6zcqfXPmh_zUWfHcHH9Isabx0-">
+	    <sectors>230727</sectors>
+	  </disc>
+	  <disc id="oTcOMFfUYO1FV6ClxlpxytqDoWo-">
+	    <sectors>235546</sectors>
+	  </disc>
+	</disc-list>
+	<track-list count="33" offset="0">
+	  <track>
+	    <position>1</position>
+	    <number>1</number>
+	    <length>155266</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="8f9a4c16-9595-4a00-ba04-1afb981c516f">
+	      <title>Summer: Summer Overture</title>
+	      <length>155266</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>2</position>
+	    <number>2</number>
+	    <length>28800</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="e8e1d9f1-90ac-4f3e-842a-a556c60c5100">
+	      <title>Summer: Party</title>
+	      <length>28800</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>3</position>
+	    <number>3</number>
+	    <length>64599</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="23ba2246-35e2-4fe6-879f-00150bb65ec4">
+	      <title>Summer: Coney Island Dreaming</title>
+	      <length>64599</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>4</position>
+	    <number>4</number>
+	    <length>36106</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="509aa307-b4b9-4f8b-aa6c-83e7498c4a84">
+	      <title>Summer: Party</title>
+	      <length>36106</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>5</position>
+	    <number>5</number>
+	    <length>25533</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="d70c02c2-8895-4a17-854a-40a087ddb53f">
+	      <title>Summer: Chocolate Charms</title>
+	      <length>25533</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>6</position>
+	    <number>6</number>
+	    <length>93533</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="175ebfbc-3227-408f-9b7a-44c89f2c2c4c">
+	      <title>Summer: Ghosts of Things to Come</title>
+	      <length>93533</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>7</position>
+	    <number>7</number>
+	    <length>44360</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="a393df68-c967-4731-bf67-e11caa2857a0">
+	      <title>Summer: Dreams</title>
+	      <length>44360</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>8</position>
+	    <number>8</number>
+	    <length>37773</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="7c6d37bb-d084-440d-82ad-8766772f752c">
+	      <title>Summer: Tense</title>
+	      <length>37773</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>9</position>
+	    <number>9</number>
+	    <length>42226</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="2d6b88d3-ea38-4401-9d0b-7512968c3e86">
+	      <title>Summer: Dr. Pill</title>
+	      <length>42226</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>10</position>
+	    <number>10</number>
+	    <length>11240</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="27457197-4990-4b76-9c03-58e107523b7a">
+	      <title>Summer: High on Life</title>
+	      <length>11240</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>11</position>
+	    <number>11</number>
+	    <length>83693</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="afb33f38-ead5-4c19-882c-ce1412c7ae1f">
+	      <title>Summer: Ghosts</title>
+	      <length>83693</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>12</position>
+	    <number>12</number>
+	    <length>104866</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="3726b46d-8a0b-4f83-94ac-988fc48c17fb">
+	      <title>Summer: Crimin and Dealin</title>
+	      <length>104866</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>13</position>
+	    <number>13</number>
+	    <length>152773</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="8039edc9-3175-4c40-90bd-d488f5b3f353">
+	      <title>Summer: Hope Overture</title>
+	      <length>152773</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>14</position>
+	    <number>14</number>
+	    <length>28400</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="900b92fa-f751-45ce-91fa-1330a8383bfd">
+	      <title>Summer: Tense</title>
+	      <length>28400</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>15</position>
+	    <number>15</number>
+	    <length>45093</length>
+	    <recording id="d4a19cc9-b857-4453-9e86-428630ec19e9">
+	      <title>Summer: Bialy and Lox Conga</title>
+	      <length>45093</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="febce516-a916-4b6f-bae3-9f370810d834">
+		    <name>The Moonrats</name>
+		    <sort-name>Moonrats, The</sort-name>
+		    <disambiguation>from the "Requiem for a Dream" soundtrack</disambiguation>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>16</position>
+	    <number>16</number>
+	    <length>88506</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="b7295ed8-ec5d-4283-8bea-18f4bb8d6517">
+	      <title>Fall: Cleaning Apartment</title>
+	      <length>88506</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>17</position>
+	    <number>17</number>
+	    <length>71466</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="70a84e59-baf8-4521-9f2b-f0bca90bc6ec">
+	      <title>Fall: Ghosts-Falling</title>
+	      <length>71466</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>18</position>
+	    <number>18</number>
+	    <length>62893</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="eef346c4-47b5-4c86-970b-a9d3685863d7">
+	      <title>Fall: Dreams</title>
+	      <length>62893</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>19</position>
+	    <number>19</number>
+	    <length>155466</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="c2b52868-dab5-4596-8ee0-32198f8a6b0b">
+	      <title>Fall: Arnold</title>
+	      <length>155466</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>20</position>
+	    <number>20</number>
+	    <length>142173</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="8c943b24-24db-42d5-b0d2-ed9fdb8ca84b">
+	      <title>Fall: Marion Barfs</title>
+	      <length>142173</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>21</position>
+	    <number>21</number>
+	    <length>134400</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="eec3b01b-8a97-4204-96aa-e4a6328c2f21">
+	      <title>Fall: Supermarket Sweep</title>
+	      <length>134400</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>22</position>
+	    <number>22</number>
+	    <length>32733</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="4c8aabf8-5578-48a2-b527-675cc471ee4f">
+	      <title>Fall: Dreams</title>
+	      <length>32733</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>23</position>
+	    <number>23</number>
+	    <length>77160</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="3c35ef8d-9b29-4559-8b11-5ee2703f8346">
+	      <title>Fall: Sara Goldfarb Has Left the Building</title>
+	      <length>77160</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>24</position>
+	    <number>24</number>
+	    <length>57306</length>
+	    <recording id="9c29e290-2fc1-41ab-9ad5-ac9cb10a722c">
+	      <title>Fall: Bugs Got a Devilish Grin Conga</title>
+	      <length>57306</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="febce516-a916-4b6f-bae3-9f370810d834">
+		    <name>The Moonrats</name>
+		    <sort-name>Moonrats, The</sort-name>
+		    <disambiguation>from the "Requiem for a Dream" soundtrack</disambiguation>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>25</position>
+	    <number>25</number>
+	    <length>19333</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="4312163a-589a-4e5c-90c3-ff299133f3ce">
+	      <title>Winter: Winter Overture</title>
+	      <length>19333</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>26</position>
+	    <number>26</number>
+	    <length>83360</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="b0456154-2332-4054-a6ed-7fc4f55a21a2">
+	      <title>Winter: Southern Hospitality</title>
+	      <length>83360</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>27</position>
+	    <number>27</number>
+	    <length>146506</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="129710ec-75d7-49a3-b2a2-997849180235">
+	      <title>Winter: Fear</title>
+	      <length>146506</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>28</position>
+	    <number>28</number>
+	    <length>64160</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="24a21092-a7b6-4b27-aade-572d5efd4c99">
+	      <title>Winter: Full Tense</title>
+	      <length>64160</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>29</position>
+	    <number>29</number>
+	    <length>268640</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="2921f836-d3fa-4417-ba71-d46bf9e5d9bb">
+	      <title>Winter: The Beginning of the End</title>
+	      <length>268640</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>30</position>
+	    <number>30</number>
+	    <length>111000</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="1e6521da-da64-4231-852f-afa56af1944c">
+	      <title>Winter: Ghosts of a Future Lost</title>
+	      <length>111000</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>31</position>
+	    <number>31</number>
+	    <length>236293</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="4af3c80f-fe2d-43a3-9300-e413675b84c9">
+	      <title>Winter: Meltdown</title>
+	      <length>236293</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>32</position>
+	    <number>32</number>
+	    <length>234400</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="c44a6709-91f1-4b89-9696-7114df89320c">
+	      <title>Winter: Lux Aeterna</title>
+	      <length>234400</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>33</position>
+	    <number>33</number>
+	    <length>133866</length>
+	    <artist-credit>
+	      <name-credit joinphrase=" feat. ">
+		<artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		  <name>Clint Mansell</name>
+		  <sort-name>Mansell, Clint</sort-name>
+		</artist>
+	      </name-credit>
+	      <name-credit>
+		<artist id="f5586dfa-7031-4af0-8042-19b6a1170389">
+		  <name>Kronos Quartet</name>
+		  <sort-name>Kronos Quartet</sort-name>
+		</artist>
+	      </name-credit>
+	    </artist-credit>
+	    <recording id="63ff62bb-588e-44c9-9769-35f59a4772e4">
+	      <title>Winter: Coney Island Low</title>
+	      <length>133866</length>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="fc015f11-be38-4b7d-b3e8-5d809242ecec">
+		    <name>Clint Mansell</name>
+		    <sort-name>Mansell, Clint</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	</track-list>
+      </medium>
+    </medium-list>
+  </release>
+
+  <release-group type="Album" id="83809016-521d-3b0b-8685-7d0e554fdcb7">
+    <title>Picaresque</title>
+    <first-release-date>2005-03-21</first-release-date>
+    <primary-type>Album</primary-type>
+    <artist-credit>
+      <name-credit>
+	<artist id="97b1142f-c71e-4971-8736-4a8ceaf6b4c3">
+	  <name>The Decemberists</name>
+	  <sort-name>Decemberists, The</sort-name>
+	</artist>
+      </name-credit>
+    </artist-credit>
+    <release-list count="4">
+      <release id="18072054-8521-44f4-abd3-a53982c0e0ce">
+	<title>Picaresque</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="97b1142f-c71e-4971-8736-4a8ceaf6b4c3">
+	      <name>The Decemberists</name>
+	      <sort-name>Decemberists, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2005-09-13</date>
+	<country>US</country>
+      </release>
+      <release id="42ef4aa7-a493-4ba8-be55-b66e73cc4c3d">
+	<title>Picaresque</title>
+	<status>Official</status>
+	<packaging>Jewel Case</packaging>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="97b1142f-c71e-4971-8736-4a8ceaf6b4c3">
+	      <name>The Decemberists</name>
+	      <sort-name>Decemberists, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2005-03-22</date>
+	<country>US</country>
+	<barcode>759656042529</barcode>
+      </release>
+      <release id="552e1453-99a4-35ad-bc47-5e8fc2397040">
+	<title>Picaresque</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="97b1142f-c71e-4971-8736-4a8ceaf6b4c3">
+	      <name>The Decemberists</name>
+	      <sort-name>Decemberists, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2005-03-21</date>
+	<country>AU</country>
+      </release>
+      <release id="90752e50-7746-3ae1-a962-08b6d70f9739">
+	<title>Picaresque</title>
+	<status>Official</status>
+	<quality>normal</quality>
+	<text-representation>
+	  <language>eng</language>
+	  <script>Latn</script>
+	</text-representation>
+	<artist-credit>
+	  <name-credit>
+	    <artist id="97b1142f-c71e-4971-8736-4a8ceaf6b4c3">
+	      <name>The Decemberists</name>
+	      <sort-name>Decemberists, The</sort-name>
+	    </artist>
+	  </name-credit>
+	</artist-credit>
+	<date>2005-08-08</date>
+	<country>GB</country>
+	<barcode>5050159825622</barcode>
+      </release>
+    </release-list>
+  </release-group>
+
+  <release id="558d2480-282f-4aec-803a-a077b9e0af6b">
+    <title>In the Pit of the Stomach</title>
+    <status>Official</status>
+    <quality>normal</quality>
+    <text-representation>
+      <language>eng</language>
+      <script>Latn</script>
+    </text-representation>
+    <artist-credit>
+      <name-credit>
+	<artist id="8f0e0596-5a39-4bd5-9dfa-f2b12030ffdc">
+	  <name>We Were Promised Jetpacks</name>
+	  <sort-name>We Were Promised Jetpacks</sort-name>
+	</artist>
+      </name-credit>
+    </artist-credit>
+    <date>2011-10-03</date>
+    <country>GB</country>
+    <barcode>0600116999726</barcode>
+    <asin>B0059B5D34</asin>
+    <label-info-list count="1">
+      <label-info>
+	<catalog-number>FATCD97</catalog-number>
+	<label id="21d42a26-b50d-4d1b-8494-ec07922919ce">
+	  <name>FatCat Records</name>
+	  <sort-name>FatCat Records</sort-name>
+	</label>
+      </label-info>
+    </label-info-list>
+    <medium-list count="1">
+      <medium>
+	<position>1</position>
+	<format>CD</format>
+	<disc-list count="1">
+	  <disc id="yLJ656hbZ4GTb2O5cKsWzeRPjz8-">
+	    <sectors>215861</sectors>
+	  </disc>
+	</disc-list>
+	<track-list count="10" offset="0">
+	  <track>
+	    <position>1</position>
+	    <number>1</number>
+	    <length>318973</length>
+	    <recording id="065dd602-09d9-4adf-ba61-6349e64f8f81">
+	      <title>Circles and Squares</title>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="8f0e0596-5a39-4bd5-9dfa-f2b12030ffdc">
+		    <name>We Were Promised Jetpacks</name>
+		    <sort-name>We Were Promised Jetpacks</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>2</position>
+	    <number>2</number>
+	    <length>226453</length>
+	    <recording id="3242ae05-6ec3-42e7-b29e-161ba7447368">
+	      <title>Medicine</title>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="8f0e0596-5a39-4bd5-9dfa-f2b12030ffdc">
+		    <name>We Were Promised Jetpacks</name>
+		    <sort-name>We Were Promised Jetpacks</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>3</position>
+	    <number>3</number>
+	    <length>246053</length>
+	    <recording id="c21d8733-0ccc-43ac-bd98-a70c9d5cf67e">
+	      <title>Through the Dirt and the Gravel</title>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="8f0e0596-5a39-4bd5-9dfa-f2b12030ffdc">
+		    <name>We Were Promised Jetpacks</name>
+		    <sort-name>We Were Promised Jetpacks</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>4</position>
+	    <number>4</number>
+	    <length>331173</length>
+	    <recording id="d1389baa-ae3b-4529-a799-bb8253e89060">
+	      <title>Act on Impulse</title>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="8f0e0596-5a39-4bd5-9dfa-f2b12030ffdc">
+		    <name>We Were Promised Jetpacks</name>
+		    <sort-name>We Were Promised Jetpacks</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>5</position>
+	    <number>5</number>
+	    <length>275480</length>
+	    <recording id="2f4e33cb-9be1-4127-b1b1-59ae01a04c02">
+	      <title>Hard to Remember</title>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="8f0e0596-5a39-4bd5-9dfa-f2b12030ffdc">
+		    <name>We Were Promised Jetpacks</name>
+		    <sort-name>We Were Promised Jetpacks</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>6</position>
+	    <number>6</number>
+	    <length>262200</length>
+	    <recording id="7b771787-0fee-464a-9e40-f2ffd4a47f0f">
+	      <title>Picture of Health</title>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="8f0e0596-5a39-4bd5-9dfa-f2b12030ffdc">
+		    <name>We Were Promised Jetpacks</name>
+		    <sort-name>We Were Promised Jetpacks</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>7</position>
+	    <number>7</number>
+	    <length>317146</length>
+	    <recording id="6b5f6046-e0db-435e-b41e-0d1a3f87a466">
+	      <title>Sore Thumb</title>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="8f0e0596-5a39-4bd5-9dfa-f2b12030ffdc">
+		    <name>We Were Promised Jetpacks</name>
+		    <sort-name>We Were Promised Jetpacks</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>8</position>
+	    <number>8</number>
+	    <length>321000</length>
+	    <recording id="5b7afcf0-dd84-448a-b1a0-f7f40885d65a">
+	      <title>Boy in the Backseat</title>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="8f0e0596-5a39-4bd5-9dfa-f2b12030ffdc">
+		    <name>We Were Promised Jetpacks</name>
+		    <sort-name>We Were Promised Jetpacks</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>9</position>
+	    <number>9</number>
+	    <length>182053</length>
+	    <recording id="f725da33-a851-4ee3-ba01-1a381a43b776">
+	      <title>Human Error</title>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="8f0e0596-5a39-4bd5-9dfa-f2b12030ffdc">
+		    <name>We Were Promised Jetpacks</name>
+		    <sort-name>We Were Promised Jetpacks</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	  <track>
+	    <position>10</position>
+	    <number>10</number>
+	    <length>395613</length>
+	    <recording id="5c6c94e6-43e1-4d01-91ee-003330c6d861">
+	      <title>Pear Tree</title>
+	      <artist-credit>
+		<name-credit>
+		  <artist id="8f0e0596-5a39-4bd5-9dfa-f2b12030ffdc"
+			  we="were promised jet packs"
+			  and="flying cars"
+			  also="commercial trips to mars">
+		    <name>We Were Promised Jetpacks</name>
+		    <sort-name>We Were Promised Jetpacks</sort-name>
+		  </artist>
+		</name-credit>
+	      </artist-credit>
+	    </recording>
+	  </track>
+	</track-list>
+      </medium>
+    </medium-list>
+  </release>
+
+</metadata>
