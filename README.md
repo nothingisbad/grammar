@@ -1,3 +1,5 @@
+# grammar
+
 A somewhat convenient and not too inefficient way to make a recursive decent parser in C++11
 
 The approach is to implement a little DSL which ties together regular expressions with user-defined callbacks.
@@ -5,10 +7,10 @@ The DSL is constructed with the DefineGrammar class, and the basic building bloc
 
 The DefineGrammar can then be passed into a Parser, which can in turn be used to process strings and streams.
 
-If a DefineGrammar is meant to be temporary; if a DefineGrammar object is passed into a Parser or another DefineGrammar it's internal state is transferred.
+A DefineGrammar is meant to be temporary; if a DefineGrammar object is passed into a Parser or another DefineGrammar it's internal state is transferred, leaving the source empty.
 
 If you need a quick and dirty parser with relatively few external dependencies (C++11 and boost::regex (I'll switch to std::regex if g++ ever gets decent support)), this might be handy.
-However, resources are not correctly freed by delete (the generated grammars may contain cycles, rather than safely freeing them they simply leak) and performance is probably not great as the parsing process it to try a regular expression match then use virtual function dispatch and a trampoline to get the next rule.
+However, resources are not correctly freed by delete (the generated grammars may contain cycles so I'm just letting them leak.  A quick mark and sweep GC wouldn't be too hard to implement, but it's not in place rigth now).  Performance is likely poor, although I've only tested on fairly trivial inputs (largest is ~78kb).
 
 # grammar::DefineGrammar :
 
@@ -38,7 +40,10 @@ The expression following the re(..) can take the matched string as an argument:
 ```C++
 int main() {
   using namespace grammar;
-  DefineGrammar example = re(".*").thunk([&]() { std::cout << "Hello world!" << std::endl; });
+  using namespace std;
+  DefineGrammar example = re("(.*)").on_string([&](const string& str) {
+    cout << "Captured " << str << "!" << endl;
+  });
   Parser parse;
   parse.sink(example);
   parse("foo");
