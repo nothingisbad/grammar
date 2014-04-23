@@ -1,5 +1,5 @@
-#ifndef BRANCH_HH
-#define BRANCH_HH
+#ifndef GRAMMAR_BRANCH_HPP
+#define GRAMMAR_BRANCH_HPP
 /**
  * @file grammar/Branch.hh
  * @author Ryan Domigan < ryan_domigan@students.uml.edu >

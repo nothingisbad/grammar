@@ -1,5 +1,5 @@
-#ifndef IF_HH
-#define IF_HH
+#ifndef GRAMMAR_IF_HH
+#define GRAMMAR_IF_HH
 /**
  * @file /home/ryan/uml/computing-IV/a06/grammar/If.hh
  * @author Ryan Domigan <ryan_domigan@sutdents@uml.edu>

@@ -1,5 +1,5 @@
-#ifndef PARSER_HH
-#define PARSER_HH
+#ifndef GRAMMAR_PARSER_HH
+#define GRAMMAR_PARSER_HH
 /**
  * @file grammar/Parser.hh
  * @author Ryan Domigan <ryan_domigan@students.uml.edu>

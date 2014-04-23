@@ -20,7 +20,7 @@
 #include <functional>
 
 #include "./grammar/grammar.hpp"
-#include "./utility.hpp"
+#include "./grammar/utility.hpp"
 
 #include "./XmlElement.hpp"
 #include "./XmlSemanticAction.hpp"

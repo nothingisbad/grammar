@@ -1,5 +1,5 @@
-#ifndef STOP_HH
-#define STOP_HH
+#ifndef GRAMMAR_STOP_HH
+#define GRAMMAR_STOP_HH
 /**
  * @file /home/ryan/uml/computing-IV/a07/grammar/Stop.hh
  * @author Ryan Domigan <ryan_domigan@sutdents@uml.edu>

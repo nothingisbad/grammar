@@ -15,7 +15,7 @@
 #include <map>
 #include <algorithm>
 
-#include "./utility.hpp"
+#include "./grammar/utility.hpp"
 #include "./grammar/Singleton.hpp"
 /**
  * @internal

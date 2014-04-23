@@ -1,5 +1,5 @@
-#ifndef GRAMMARTREE_HH
-#define GRAMMARTREE_HH
+#ifndef GRAMMAR_GRAMMARTREE_HH
+#define GRAMMAR_GRAMMARTREE_HH
 /**
  * @file grammar/GrammarTree.hh
  * @author Ryan Domigan <ryan_domigan@sutdents@uml.edu>

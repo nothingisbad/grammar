@@ -1,5 +1,5 @@
-#ifndef PUTBACK_HPP
-#define PUTBACK_HPP
+#ifndef GRAMMAR_PUTBACK_HPP
+#define GRAMMAR_PUTBACK_HPP
 /**
  * @file PutBack.hh
  * @author Ryan Domigan <ryan_domigan@sutdents@uml.edu>

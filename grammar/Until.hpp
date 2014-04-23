@@ -1,5 +1,5 @@
-#ifndef UNTIL_HH
-#define UNTIL_HH
+#ifndef GRAMMAR_UNTIL_HH
+#define GRAMMAR_UNTIL_HH
 /**
  * @file grammar/Until.hh
  * @author Ryan Domigan <ryan_domigan@sutdents@uml.edu>

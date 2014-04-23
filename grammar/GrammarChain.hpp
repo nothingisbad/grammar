@@ -1,5 +1,5 @@
-#ifndef GRAMMARCHAIN_HH
-#define GRAMMARCHAIN_HH
+#ifndef GRAMMAR_GRAMMARCHAIN_HH
+#define GRAMMAR_GRAMMARCHAIN_HH
 /**
  * @file grammar/GrammarChain.hh
  * @author Ryan Domigan <ryan_domigan@sutdents@uml.edu>

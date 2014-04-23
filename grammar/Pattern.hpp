@@ -1,5 +1,5 @@
-#ifndef PATTERN_HPP
-#define PATTERN_HPP
+#ifndef GRAMMAR_PATTERN_HPP
+#define GRAMMAR_PATTERN_HPP
 
 #include <string>
 

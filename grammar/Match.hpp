@@ -1,5 +1,5 @@
-#ifndef MATCH_HH
-#define MATCH_HH
+#ifndef GRAMMAR_MATCH_HH
+#define GRAMMAR_MATCH_HH
 /**
  * @file /home/ryan/uml/computing-IV/a07/grammar/Match.hh
  * @author Ryan Domigan <ryan_domigan@sutdents@uml.edu>

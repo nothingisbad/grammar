@@ -1,5 +1,5 @@
-#ifndef SIMPLEDEFAULT_HH
-#define SIMPLEDEFAULT_HH
+#ifndef GRAMMAR_SIMPLEDEFAULT_HH
+#define GRAMMAR_SIMPLEDEFAULT_HH
 /**
  * @file /home/ryan/uml/computing-IV/a07/grammar/SimpleDefault.hh
  * @author Ryan Domigan <ryan_domigan@sutdents@uml.edu>

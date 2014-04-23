@@ -12,7 +12,7 @@
 #include "./XmlElement.hpp"
 #include "./XmlStats.hpp"
 
-#include "./utility.hpp"
+#include "./grammar/utility.hpp"
 
 /**
  * non-instantiable class, used for template key-ing

@@ -1,5 +1,5 @@
-#ifndef SYNTAXERROR_HH
-#define SYNTAXERROR_HH
+#ifndef GRAMMAR_SYNTAXERROR_HH
+#define GRAMMAR_SYNTAXERROR_HH
 /**
  * @file grammar/SyntaxError.hh 
  * @author Ryan Domigan < ryan_domigan@students.uml.edu >

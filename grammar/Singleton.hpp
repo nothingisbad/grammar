@@ -1,5 +1,5 @@
-#ifndef SINGLETON_HH
-#define SINGLETON_HH
+#ifndef GRAMMAR_SINGLETON_HH
+#define GRAMMAR_SINGLETON_HH
 /**
  * @file grammar/Singleton.hh
  * @author Ryan Domigan <ryan_domigan@sutdents@uml.edu>

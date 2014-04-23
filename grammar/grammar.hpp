@@ -1,5 +1,5 @@
-#ifndef GRAMMAR_ALL_HH
-#define GRAMMAR_ALL_HH
+#ifndef GRAMMAR_GRAMMAR_ALL_HPP
+#define GRAMMAR_GRAMMAR_ALL_HPP
 /**
  * @namespace grammar Defines objects and functions useful in generating a parser.
  * Modeled loosely on LEX/YACC, grammar defines some functors which can match strings, some and some functors that

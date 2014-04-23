@@ -1,5 +1,5 @@
-#ifndef LABEL_HH
-#define LABEL_HH
+#ifndef GRAMMAR_LABEL_HH
+#define GRAMMAR_LABEL_HH
 /**
  * @file grammar/Label.hh
  * @author Ryan Domigan <ryan_domigan@sutdents@uml.edu>

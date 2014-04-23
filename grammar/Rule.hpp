@@ -1,5 +1,5 @@
-#ifndef RULE_HH
-#define RULE_HH
+#ifndef GRAMMAR_RULE_HH
+#define GRAMMAR_RULE_HH
 /**
  * @file grammar/Rule.hh
  * @author Ryan Domigan < ryan_domigan@students.uml.edu >

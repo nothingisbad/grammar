@@ -1,5 +1,5 @@
-#ifndef REDUCE_HH
-#define REDUCE_HH
+#ifndef GRAMMAR_REDUCE_HH
+#define GRAMMAR_REDUCE_HH
 /**
  * @file grammar/Reduce.hh
  * @author Ryan Domigan < ryan_domigan@students.uml.edu >

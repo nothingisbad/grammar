@@ -1,5 +1,5 @@
-#ifndef GOTOLABEL_HH
-#define GOTOLABEL_HH
+#ifndef GRAMMAR_GOTOLABEL_HH
+#define GRAMMAR_GOTOLABEL_HH
 /**
  * @file grammar/GotoLabel.hh
  * @author Ryan Domigan <ryan_domigan@sutdents@uml.edu>
